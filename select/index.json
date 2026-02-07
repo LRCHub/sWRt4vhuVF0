@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "アイロニ。（feat. 水槽）",
+  "base_artist": "みきまりあ",
+  "createdAt": "2026-02-07T11:42:03.870323Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "アイロニ。 (feat.水槽)",
+      "artist": "みきまりあ, 水槽",
+      "has_synced": false,
+      "path": "select/pl_01_アイロニ。_(feat.水槽)_みきまりあ,_水槽.txt"
+    }
+  ]
+}
